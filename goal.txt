@@ -1,0 +1,9 @@
+Name
+Photo at the right corner
+Address ,gmail link, github link,linkedin link 
+Profile picture to the right side
+Education details: 
+Experience
+Projects
+Activities
+Skills
